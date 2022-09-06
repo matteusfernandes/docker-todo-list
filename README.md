@@ -1,4 +1,4 @@
-# Repositório do projeto de Jest Assíncrono e Mocking!
+# Repositório do projeto Docker ToDo List!
 
 Bloco 19 - Docker: Utilizando Containers
 
