@@ -83,7 +83,7 @@ Você pode ler mais sobre o `EsLint` e como instalá-lo [aqui](https://app.betry
 
 ## Matteus Fernandes - Dev Full Stack
 
-- Para visualizar o **Pull Request** original aberto no repositório da Trybe e tomar nota da avaliação e dos testes, acesse: [Matteus](https://github.com/tryber/sd-013-b-project-jest/pull/83)
+- Para visualizar o **Pull Request** original aberto no repositório da Trybe e tomar nota da avaliação e dos testes, acesse: [Matteus](https://github.com/tryber/sd-013-b-project-docker-todo-list/pull/48)
 - [LinkedIn](https://www.linkedin.com/in/matteusfernandes/)
 
 ---
