@@ -18,7 +18,7 @@ Foram "conteinerizadas" as aplicações de frontend, backend e testes fornecidas
 
 ---
 
-# Instruções
+## Instruções
 **⚠️ Importante ⚠️**
 Para que funcione corretamente, é importante que a instalação do Docker seja feita corretamente.
 Aqui também é importante que o seu usuário esteja no grupo `docker` (para que não haja a necessidade de rodar comandos utilizando o `sudo`)
@@ -81,9 +81,5 @@ Você pode ler mais sobre o `EsLint` e como instalá-lo [aqui](https://app.betry
 
 ---
 
-## Matteus Fernandes - Dev Full Stack
-
-- Para visualizar o **Pull Request** original aberto no repositório da Trybe e tomar nota da avaliação e dos testes, acesse: [Matteus](https://github.com/tryber/sd-013-b-project-docker-todo-list/pull/48)
-- [LinkedIn](https://www.linkedin.com/in/matteusfernandes/)
-
----
+#### Para visualizar o **Pull Request** original aberto no repositório da Trybe e tomar nota da avaliação e dos testes, acesse: [Docker ToDo List](https://github.com/tryber/sd-013-b-project-docker-todo-list/pull/48)
+#### 💻 **Desenvolvido por** [@matteusfernandes](https://github.com/matteusfernandes) • 2022 🔗 [LinkedIn](https://www.linkedin.com/in/matteusfernandes/)
